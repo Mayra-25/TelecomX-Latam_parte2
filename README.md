@@ -100,3 +100,6 @@ Top 10 Factores que influyen en la Cancelación (Random Forest):
 . Matriz de confusión - Random forest
 <img width="670" height="546" alt="image" src="https://github.com/user-attachments/assets/d5114e26-2288-4d5e-94af-132f14f00998" />
 
+# Como ejecutar el proyecto
+Clona este repositorio:
+
