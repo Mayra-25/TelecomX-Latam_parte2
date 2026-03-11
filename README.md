@@ -102,4 +102,4 @@ Top 10 Factores que influyen en la Cancelación (Random Forest):
 
 # Como ejecutar el proyecto
 Clona este repositorio:
-
+https://github.com/Mayra-25/TelecomX-Latam_parte2.git
